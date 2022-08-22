@@ -1,0 +1,7 @@
+1.Write a Python program find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five.
+Input:
+[19, 19, 15, 5, 3, 5, 5, 2]
+Output:
+True
+2.WAPP to check a given list of integers where the sum of the integers is equal to length of list.
+3.WAPP to add two integers without using arithmetic operator

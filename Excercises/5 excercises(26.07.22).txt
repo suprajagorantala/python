@@ -1,0 +1,9 @@
+1.WAP to reverse a number 
+
+2. WAP to count  the number  occurrence/frequency  of a  each character in a string . 
+
+3. WAP  to check length of two string is equal or not. 
+
+ 4. Python program to print even numbers up to 100 
+
+5. Write a program in python to find greatest among three integers 
